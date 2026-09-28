@@ -1,0 +1,13 @@
+{
+  "assets": [
+    {"name":"icon_1024","type":"icon","prompt":"App icon, glossy 3D golden paper lantern with warm glowing light, single centered object, deep navy radial gradient background, crisp, no text"},
+    {"name":"bg_loader","type":"bg","prompt":"Vertical 9:16 mobile game loader background, deep navy night sky with distant warm golden lantern bokeh, cinematic, very dark, no text, no UI elements"},
+    {"name":"bg_menu","type":"bg","prompt":"Vertical 9:16 mobile game menu background, night lantern festival over dark water, glowing golden paper lanterns rising into indigo sky, vibrant, 3D render, no text, no UI elements"},
+    {"name":"bg_game","type":"bg","prompt":"Vertical 9:16 mobile game background, soft blurred dark navy night with faint golden glow and subtle aurora, low contrast for UI overlay, no text, no UI elements"},
+    {"name":"bg_result","type":"bg","prompt":"Vertical 9:16 mobile game results background, warm golden light blooming through deep indigo night mist, cinematic, no text, no UI elements"},
+    {"name":"sprite_lantern","type":"sprite","prompt":"One single cute cartoon paper lantern, unlit and dim, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_lantern_lit","type":"sprite","prompt":"One single cute cartoon paper lantern glowing bright warm gold, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_spark","type":"sprite","prompt":"One single small golden light spark orb, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"button_cta","type":"button","prompt":"Horizontal game CTA button background, warm gold gradient, glossy, rounded, no text"}
+  ]
+}
